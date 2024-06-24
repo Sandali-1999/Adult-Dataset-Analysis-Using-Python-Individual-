@@ -1,1 +1,1 @@
-# Adult-Dataset-Analysis-Using-Python-Individual-
+# Adult Dataset Analysis Using Python Individual
